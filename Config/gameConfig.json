@@ -1,0 +1,5 @@
+{
+    "playerSpeed": 200,
+    "obstacleFrequency": 1.5,
+    "gameDuration": 60
+}
